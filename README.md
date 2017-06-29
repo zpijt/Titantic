@@ -1,2 +1,3 @@
 # Titantic
 learn machine learning by Titantic dataset
+my english isn't well,this  comment is hard to write......
